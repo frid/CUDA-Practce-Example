@@ -1,0 +1,5 @@
+1. Ch0: for development enviroment(VS2012) configuration and
+        basic CUDA knowledge explain
+2. Ch1: for device relate testing program
+        (1) Device query
+        (2) Bandwith Test
