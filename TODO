@@ -1,5 +1,8 @@
 1. Ch0: for development enviroment(VS2012) configuration and
         basic CUDA knowledge explain
-2. Ch1: for device relate testing program
+   Ch1: for device relate testing program
         (1) Device query
         (2) Bandwith Test
+   Ch2: for simple vector and matrix computation
+        (1) vector
+        (2) Matrix
